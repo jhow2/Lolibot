@@ -1,0 +1,27 @@
+{
+  "name": "TutorialBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "fs": "0.0.1-security",
+    "mc-ping-updated": "^0.1.1",
+    "minecraft-server-util": "^1.1.1",
+    "mineflayer": "^2.11.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "request": "^2.88.2",
+    "ytdl": "^1.2.0",
+    "ytdl-core": "^2.0.1",
+    "ytpl": "^0.1.20",
+    "ytsearcher": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
